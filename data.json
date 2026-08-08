@@ -1,0 +1,156 @@
+[
+  {
+    "id": "sample1",
+    "name": "人教版 七年级上册 Unit 1 单词音频",
+    "stage": "junior",
+    "type": "audio",
+    "tags": ["人教版", "七年级", "单词表"],
+    "desc": "Unit 1 My name's Gina 单元单词跟读音频（示例资料，可在编辑中替换为真实文件或链接）",
+    "src": { "kind": "link", "data": "", "size": 0, "name": "", "mime": "" },
+    "createdAt": 1786153187000,
+    "updatedAt": 1786153187000
+  },
+  {
+    "id": "sample2",
+    "name": "人教版 八年级下册 Unit 6 单词音频",
+    "stage": "junior",
+    "type": "audio",
+    "tags": ["人教版", "八年级", "单词表"],
+    "desc": "Unit 6 An old man tried to move the mountains 单元单词（示例资料）",
+    "src": { "kind": "link", "data": "", "size": 0, "name": "", "mime": "" },
+    "createdAt": 1786066787000,
+    "updatedAt": 1786066787000
+  },
+  {
+    "id": "sample3",
+    "name": "高中英语 必修一 Unit 1 词汇音频",
+    "stage": "senior",
+    "type": "audio",
+    "tags": ["人教版", "必修一"],
+    "desc": "Teenage life 单元词汇跟读（示例资料）",
+    "src": { "kind": "link", "data": "", "size": 0, "name": "", "mime": "" },
+    "createdAt": 1785980387000,
+    "updatedAt": 1785980387000
+  },
+  {
+    "id": "sample4",
+    "name": "中考英语全真模拟试卷（含听力原文）",
+    "stage": "junior",
+    "type": "exam",
+    "tags": ["中考", "模拟卷", "听力"],
+    "desc": "三套完整模拟卷，附答题卡与听力原文及答案解析（示例资料）",
+    "src": { "kind": "link", "data": "", "size": 0, "name": "", "mime": "" },
+    "createdAt": 1785893987000,
+    "updatedAt": 1785893987000
+  },
+  {
+    "id": "sample5",
+    "name": "2023 全国乙卷高考英语真题",
+    "stage": "senior",
+    "type": "exam",
+    "tags": ["高考", "真题"],
+    "desc": "全国乙卷真题含答案解析（示例资料）",
+    "src": { "kind": "link", "data": "", "size": 0, "name": "", "mime": "" },
+    "createdAt": 1785807587000,
+    "updatedAt": 1785807587000
+  },
+  {
+    "id": "sample6",
+    "name": "初中英语语法速记手册",
+    "stage": "junior",
+    "type": "grammar",
+    "tags": ["语法", "速记"],
+    "desc": "时态、语态、从句等核心语法点速查（示例资料）",
+    "src": { "kind": "link", "data": "", "size": 0, "name": "", "mime": "" },
+    "createdAt": 1785721187000,
+    "updatedAt": 1785721187000
+  },
+  {
+    "id": "sample7",
+    "name": "高中英语 16 大时态详解与练习",
+    "stage": "senior",
+    "type": "grammar",
+    "tags": ["时态", "讲义"],
+    "desc": "时态体系梳理 + 配套练习（示例资料）",
+    "src": { "kind": "link", "data": "", "size": 0, "name": "", "mime": "" },
+    "createdAt": 1785634787000,
+    "updatedAt": 1785634787000
+  },
+  {
+    "id": "sample8",
+    "name": "中考英语听力专项训练 20 篇",
+    "stage": "junior",
+    "type": "listening",
+    "tags": ["中考", "听力"],
+    "desc": "日常对话与短文理解题型训练（示例资料）",
+    "src": { "kind": "link", "data": "", "size": 0, "name": "", "mime": "" },
+    "createdAt": 1785548387000,
+    "updatedAt": 1785548387000
+  },
+  {
+    "id": "sample9",
+    "name": "高考英语听力高频场景词汇",
+    "stage": "senior",
+    "type": "listening",
+    "tags": ["高考", "听力", "词汇"],
+    "desc": "机场、校园、购物等高频场景词汇整理（示例资料）",
+    "src": { "kind": "link", "data": "", "size": 0, "name": "", "mime": "" },
+    "createdAt": 1785461987000,
+    "updatedAt": 1785461987000
+  },
+  {
+    "id": "sample10",
+    "name": "初中英语阅读理解精练 50 篇",
+    "stage": "junior",
+    "type": "reading",
+    "tags": ["阅读", "精练"],
+    "desc": "按难度分级的阅读理解训练（示例资料）",
+    "src": { "kind": "link", "data": "", "size": 0, "name": "", "mime": "" },
+    "createdAt": 1785375587000,
+    "updatedAt": 1785375587000
+  },
+  {
+    "id": "sample11",
+    "name": "高考英语七选五解题技巧",
+    "stage": "senior",
+    "type": "reading",
+    "tags": ["七选五", "技巧"],
+    "desc": "题型分析 + 解题步骤 + 真题演练（示例资料）",
+    "src": { "kind": "link", "data": "", "size": 0, "name": "", "mime": "" },
+    "createdAt": 1785289187000,
+    "updatedAt": 1785289187000
+  },
+  {
+    "id": "sample12",
+    "name": "中考英语作文万能模板",
+    "stage": "junior",
+    "type": "writing",
+    "tags": ["作文", "模板"],
+    "desc": "书信、记叙文、议论文等常见体裁模板（示例资料）",
+    "src": { "kind": "link", "data": "", "size": 0, "name": "", "mime": "" },
+    "createdAt": 1785202787000,
+    "updatedAt": 1785202787000
+  },
+  {
+    "id": "sample13",
+    "name": "高中英语应用文写作高分句型",
+    "stage": "senior",
+    "type": "writing",
+    "tags": ["写作", "句型"],
+    "desc": "邀请信、建议信等应用文句式积累（示例资料）",
+    "src": { "kind": "link", "data": "", "size": 0, "name": "", "mime": "" },
+    "createdAt": 1785116387000,
+    "updatedAt": 1785116387000
+  },
+  {
+    "id": "sample14",
+    "name": "高考英语 3500 核心词汇表",
+    "stage": "senior",
+    "type": "other",
+    "tags": ["3500词", "词汇表"],
+    "desc": "高考考纲核心词汇全表（示例资料）",
+    "src": { "kind": "link", "data": "", "size": 0, "name": "", "mime": "" },
+    "createdAt": 1785029987000,
+    "updatedAt": 1785029987000
+  }
+]
